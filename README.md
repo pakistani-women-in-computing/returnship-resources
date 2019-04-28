@@ -23,7 +23,7 @@ She'sCoding organization has weekly meetup on Cracking the Coding interview wher
 #### King County Library (Seattle)
 King County Libarary branches has volunteer opportunity as tech tutor, where people can teach entry level classes like HTML, CSS, JS, Python. For this, they need to contact instruction@kcls.org or 425-369-3389.
 
-#### Seattle Tech Interviews
+#### Seattle Tech Interviews (Seattle)
 Seattle Tech Interviews meetup group has daily online leetcode practice. https://www.meetup.com/techinterviews
 
 #### Coding Practice (Seattle)
