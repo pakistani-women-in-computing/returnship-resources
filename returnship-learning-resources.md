@@ -1,4 +1,4 @@
-# returnship-resources
+# Returnships Related Learning Programs
 A community driven list of resources for returnship program.
 
 #### MomsCanCode
