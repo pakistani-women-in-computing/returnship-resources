@@ -27,4 +27,4 @@ King County Libarary branches has volunteer opportunity as tech tutor, where peo
 Seattle Tech Interviews meetup group has daily online leetcode practice. https://www.meetup.com/techinterviews
 
 #### Coding Practice (Seattle)
-The Cooding Practice session meetup group meets every week on Saturday or Sunday for 2 hours of algorithm practice in different public libraries in the Eastside. Run and attended by mostly Indian and Pakistani people. https://www.meetup.com/skillets/events/vqdzvqyzhbgb/
+The Coding Practice session meetup group meets every week on Saturday or Sunday for 2 hours of algorithm practice in different public libraries in the Eastside. Run and attended by mostly Indian and Pakistani people. https://www.meetup.com/skillets/events/vqdzvqyzhbgb/
