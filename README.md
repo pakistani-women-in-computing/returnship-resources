@@ -13,6 +13,9 @@ A free resource that can be sometimes used for free with a library card. Example
 #### 100DayOfCode
 More information is available here: https://www.100daysofcode.com/ 
 
+#### Pramp.com
+Practice live interviews with your peers. https://www.pramp.com/
+
 #### Algorithms
 More information is available here:https://medium.com/@dabdulloeva
 
