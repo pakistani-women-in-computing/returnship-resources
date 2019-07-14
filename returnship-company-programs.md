@@ -16,6 +16,9 @@ https://www.womenbacktowork.org/
 LEAP Engineering Acceleration Program (LEAP) is an immersive, 16-week program providing candidates with real-world experience through development and project management apprenticeships.
 http://www.industryexplorers.com/
 
+### Intuit Again
+Intuit Again is an initiative that inspires and provides an opportunity for technologists to return to work after taking a break in their career for caregiving purposes. https://intuitagain.com/
+
 ### Paypal Recharge Program
 Paypal encourages skilled technologists who have taken a career break for personal or family reasons to feel equipped to return to the workforce. 
 https://www.paypal.com/dz/webapps/mpp/jobs/recharge
