@@ -14,7 +14,7 @@ https://www.womenbacktowork.org/
 
 ### Microsoft’s LEAP Engineering Acceleration Program (LEAP) Program
 LEAP Engineering Acceleration Program (LEAP) is an immersive, 16-week program providing candidates with real-world experience through development and project management apprenticeships.
-http://www.industryexplorers.com/
+https://www.microsoft.com/en-us/leap/
 
 ### Intuit Again
 Intuit Again is an initiative that inspires and provides an opportunity for technologists to return to work after taking a break in their career for caregiving purposes. https://intuitagain.com/
